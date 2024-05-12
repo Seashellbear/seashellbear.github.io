@@ -1,10 +1,18 @@
 #  The contact options.
 
-- type: github
-  icon: "fab fa-github"
+- #type: github
+  #icon: "fab fa-github"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+- #type: twitter
+  #icon: "fa-brands fa-x-twitter"
+
+- type: instagram
+  icon: "fa-brands fa-instagram"
+  url: https://www.instagram.com/Seashell.bear.creative
+
+- type: beartaria
+  icon: "fa-solid fa-b"
+  url: https://app.beartariatimes.com/profile/12665
 
 - type: email
   icon: "fas fa-envelope"
@@ -13,6 +21,8 @@
 - type: rss
   icon: "fas fa-rss"
   noblank: true
+
+
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
