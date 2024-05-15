@@ -2,6 +2,7 @@
 layout: post
 title:  "My new Book"
 categories: [Books, Three of Cups] 
+date: 2024-05-05 05:05:05
 tags: [book,chapter] #tags should always be lowercase
 ---
 
