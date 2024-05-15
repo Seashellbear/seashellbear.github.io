@@ -23,7 +23,7 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://seashellbear.com/"
 
 #github:
 #  username: github_username # change to your github username
@@ -135,7 +135,7 @@ assets:
     enabled: # boolean, keep empty means false
     # specify the Jekyll environment, empty means both
     # only works if `assets.self_host.enabled` is 'true'
-    env: # [development | production]
+    env: development # [development | production]
 
 pwa:
   enabled: true # the option for PWA feature (installable)
