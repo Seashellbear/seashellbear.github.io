@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The Angel's Twin"
-date: 2024-05-17 
+date: 2024-05-18 
 categories: Short
 tags: creative writing short story
-published: 
+published: True
 ---
 
 # The Angel's Twin
