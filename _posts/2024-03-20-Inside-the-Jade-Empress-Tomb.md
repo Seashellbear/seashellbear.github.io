@@ -2,15 +2,13 @@
 layout: post
 title: "Inside the Jade Empress' Tomb"
 date: 2024-03-20
-categories: [D&D, Adventures]
-tags: d&d trpg adventure
+categories: [TTRPG, Adventures]
+tags: dnd 5e ttrpg adventure
 published: false
 ---
-# Inside the Jade Empress' Tomb  
-my 2nd D&D adventure module is  
-now [available on Dungeon Masters Guild](https://www.dmsguild.com/product/474886/Inside-the-Jade-Empress-Tomb)
+# Inside the Jade Empress' Tomb   
 
-[![Inside the Jade Empress' Tomb](/assets/img/posts/2024-03-20-ijet-cover.webp)](https://www.dmsguild.com/product/474886/Inside-the-Jade-Empress-Tomb "Inside the Jade Empress' Tomb")
+[![Inside the Jade Empress' Tomb](/assets/img/posts/2024-03-20-ijet-cover.webp)](https://www.dmsguild.com/product/474886/Inside-the-Jade-Empress-Tomb?affiliate_id=1416947 "Inside the Jade Empress' Tomb")
 
 ***The Imperial Dragon Guard has been dispatched***  
 Six members of the Emperor’s Royal Dragon Guard have been appointed to search out and destroy one of the Empire’s enemies that has taken up hold in the Jade Empress’s Tomb.  
@@ -28,3 +26,5 @@ You have been told, whatever you do, you must not wake the powers that reside wi
 
 A short beginner friendly one-shot adventure for 4 to 6 players.
 Character sheets included.
+
+now [available on Dungeon Masters Guild](https://www.dmsguild.com/product/474886/Inside-the-Jade-Empress-Tomb?affiliate_id=1416947)
