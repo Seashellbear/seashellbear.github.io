@@ -9,7 +9,7 @@ published: True
 
 # The Angel's Twin
 
-He was looking at her through the window of the second floor bathroom. If she looked up, she would see him. 
+He was looking at her through the window of the second floor bathroom. If she looked up, she would see him.  
 &nbsp;&nbsp;&nbsp;She rang the doorbell again, shifting and sighing impatiently.  
 &nbsp;&nbsp;&nbsp;He wanted to run down and open the door. Why was grandma not opening it?  
 &nbsp;&nbsp;&nbsp;The lady that looked like the spitting image of his mom, he’d noticed that as she got out of the taxi, was standing on the doorstep with a matching set of suitcases.  
