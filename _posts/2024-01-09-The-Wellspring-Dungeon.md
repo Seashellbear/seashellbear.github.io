@@ -2,14 +2,13 @@
 layout: post
 title: "The Wellspring Dungeon - Adventure"
 date: 2024-01-09
-categories: [D&D, Adventures]
-tags: d&d trpg adventure
+categories: [TTRPG, Adventures]
+tags: dnd 5e ttrpg adventure
 published: false
 ---
 # The Wellspring Dungeon
-now [available on Dungeon Masters Guild](https://www.dmsguild.com/product/467504/The-Wellspring-Dungeon) 
 
-[![The Wellspring Dungeon](/assets/img/posts/2024-01-09-twd-cover.webp)](https://www.dmsguild.com/product/467504/The-Wellspring-Dungeon "The Wellspring Dungeon")
+[![The Wellspring Dungeon](/assets/img/posts/2024-01-09-twd-cover.webp)](https://www.dmsguild.com/product/467504/The-Wellspring-Dungeon?affiliate_id=1416947 "The Wellspring Dungeon")
 
 This is a fun series of puzzles intended to challenge the players at your table to creatively solve the problems they pose. 
 
@@ -25,3 +24,4 @@ It’s only a few more days until Founding Day, the most important festival of t
 
 Will the heroes who brave this dungeon be successful in saving the festival and the city?
 
+now [available on Dungeon Masters Guild](https://www.dmsguild.com/product/467504/The-Wellspring-Dungeon?affiliate_id=1416947) 
