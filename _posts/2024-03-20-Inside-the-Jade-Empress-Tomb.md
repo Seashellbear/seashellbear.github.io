@@ -26,3 +26,4 @@ It may or may not live up to your expectation, yet this certainly is: The Jade E
 You have been told, whatever you do, you must not wake the powers that reside within the stilled body of the Empress of Old. For if you do… great and terrible things will happen.
 ~~~
 
+Buy now at [Dungeon Masters Guild](https://www.dmsguild.com/product/474886/Inside-the-Jade-Empress-Tomb)
