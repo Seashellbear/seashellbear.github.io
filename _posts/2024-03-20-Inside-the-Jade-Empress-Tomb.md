@@ -2,23 +2,15 @@
 layout: post
 title: "Inside the Jade Empress' Tomb"
 date: 2024-03-20
-<<<<<<< HEAD
-categories: [D&D, Adventures]
-tags: d&d trpg adventure
+categories: [TTRPG, Adventures]
+tags: dnd 5e ttrpg adventure
 published: true
 ---
 # Inside the Jade Empress' Tomb  
 If you're looking for a short beginner friendly one-shot adventure for 4 to 6 players - character sheets included - check out this one on 
  [Dungeon Masters Guild](https://www.dmsguild.com/product/474886/Inside-the-Jade-Empress-Tomb)
-=======
-categories: [TTRPG, Adventures]
-tags: dnd 5e ttrpg adventure
-published: false
----
-# Inside the Jade Empress' Tomb   
->>>>>>> 8a2ef9a3d0fc94d1e81e8b45a53cb014a058a980
 
-[![Inside the Jade Empress' Tomb](/assets/img/posts/2024-03-20-ijet-cover.webp)](https://www.dmsguild.com/product/474886/Inside-the-Jade-Empress-Tomb?affiliate_id=1416947 "Inside the Jade Empress' Tomb")
+[![Inside the Jade Empress' Tomb](/assets/img/posts/2024-03-20-ijet-cover.webp)](https://www.dmsguild.com/product/474886/Inside-the-Jade-Empress-Tomb "Inside the Jade Empress' Tomb")
 
 ***The Imperial Dragon Guard has been dispatched***  
 Six members of the Emperor’s Royal Dragon Guard have been appointed to search out and destroy one of the Empire’s enemies that has taken up hold in the Jade Empress’s Tomb.  
@@ -34,10 +26,3 @@ It may or may not live up to your expectation, yet this certainly is: The Jade E
 You have been told, whatever you do, you must not wake the powers that reside within the stilled body of the Empress of Old. For if you do… great and terrible things will happen.
 ~~~
 
-<<<<<<< HEAD
-=======
-A short beginner friendly one-shot adventure for 4 to 6 players.
-Character sheets included.
-
-now [available on Dungeon Masters Guild](https://www.dmsguild.com/product/474886/Inside-the-Jade-Empress-Tomb?affiliate_id=1416947)
->>>>>>> 8a2ef9a3d0fc94d1e81e8b45a53cb014a058a980
