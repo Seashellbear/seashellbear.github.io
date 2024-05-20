@@ -4,11 +4,11 @@ title: "Inside the Jade Empress' Tomb"
 date: 2024-03-20
 categories: [D&D, Adventures]
 tags: d&d trpg adventure
-published: false
+published: true
 ---
 # Inside the Jade Empress' Tomb  
-my 2nd D&D adventure module is  
-now [available on Dungeon Masters Guild](https://www.dmsguild.com/product/474886/Inside-the-Jade-Empress-Tomb)
+If you're looking for a short beginner friendly one-shot adventure for 4 to 6 players - character sheets included - check out this one on 
+ [Dungeon Masters Guild](https://www.dmsguild.com/product/474886/Inside-the-Jade-Empress-Tomb)
 
 [![Inside the Jade Empress' Tomb](/assets/img/posts/2024-03-20-ijet-cover.webp)](https://www.dmsguild.com/product/474886/Inside-the-Jade-Empress-Tomb "Inside the Jade Empress' Tomb")
 
@@ -26,5 +26,3 @@ It may or may not live up to your expectation, yet this certainly is: The Jade E
 You have been told, whatever you do, you must not wake the powers that reside within the stilled body of the Empress of Old. For if you do… great and terrible things will happen.
 ~~~
 
-A short beginner friendly one-shot adventure for 4 to 6 players.
-Character sheets included.
