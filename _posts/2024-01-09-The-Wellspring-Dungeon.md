@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Wellspring Dungeon - Adventure"
+title: "The Wellspring Dungeon"
 date: 2024-01-09
 categories: [TTRPG, Adventures]
 tags: dnd 5e ttrpg adventure
@@ -8,7 +8,7 @@ published: true
 ---
 # The Wellspring Dungeon
 I proudly present my first adventure available on the [Dungeon Masters Guild](https://www.dmsguild.com/product/467504/The-Wellspring-Dungeon?affiliate_id=1416947 "The Wellspring Dungeon") website.  
-This adventure is ideal for 4-6 characters of seventh level. 
+This D&D 5e adventure is ideal for 4-6 characters of seventh level. 
 
 [![The Wellspring Dungeon](/assets/img/posts/2024-01-09-twd-cover.webp)](https://www.dmsguild.com/product/467504/The-Wellspring-Dungeon?affiliate_id=1416947 "The Wellspring Dungeon")
 

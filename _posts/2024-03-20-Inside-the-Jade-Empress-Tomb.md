@@ -7,7 +7,7 @@ tags: dnd 5e ttrpg adventure
 published: true
 ---
 # Inside the Jade Empress' Tomb  
-If you're looking for a short beginner friendly one-shot adventure for 4 to 6 players - character sheets included - check out this one on 
+If you're looking for a short beginner friendly D&D 5e one-shot adventure for 4 to 6 players - character sheets included - check out this one on 
  [Dungeon Masters Guild](https://www.dmsguild.com/product/474886/Inside-the-Jade-Empress-Tomb)
 
 [![Inside the Jade Empress' Tomb](/assets/img/posts/2024-03-20-ijet-cover.webp)](https://www.dmsguild.com/product/474886/Inside-the-Jade-Empress-Tomb "Inside the Jade Empress' Tomb")
