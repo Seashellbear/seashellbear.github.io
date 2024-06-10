@@ -1,14 +1,13 @@
 ---
 layout: post
-title: "release-schedule"
-date: 2024-07-10 08:00:00 -0200
-categories: post
-tags: creative writing 
-published: false
+title: "Release schedule"
+date: 2024-06-10 01:00:00 -0200
+categories: Releases
+tags: 3OC releases
+# published: true
 ---
 ## Release Schedule
 [![Release Schedule](/assets/img/posts/2024-06-10_Three_of_Cups_dates.webp)](https://www.arkhaven.com/comics/fantasy/three-of-cups "Release Schedule")
 
-SOME DESCRIPTION
-
-[Read Episode 2 here](https://www.arkhaven.com/comics/fantasy/three-of-cups/2-at-the-crooked-tail)
+## Episode 2 is available
+Click [here](https://www.arkhaven.com/comics/fantasy/three-of-cups/2-at-the-crooked-tail) to read the second chapter of Three of Cups.
