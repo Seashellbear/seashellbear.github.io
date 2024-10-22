@@ -3,7 +3,7 @@ layout: post
 title: "Zomerse Dromen"
 date: 2024-7-16
 categories: Kort
-tags: creative writing Kort NL short story Dutch
+tags: creative writing Kort NL short story Dutch Nederlands
 published: true
 ---
 
