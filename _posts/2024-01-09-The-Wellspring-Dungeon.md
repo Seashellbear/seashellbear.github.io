@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Wellspring Dungeon"
+title: "D&D The Wellspring Dungeon"
 date: 2024-01-09
 categories: [TTRPG, Adventures]
 tags: dnd 5e ttrpg adventure

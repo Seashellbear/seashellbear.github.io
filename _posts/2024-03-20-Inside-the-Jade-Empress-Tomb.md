@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Inside the Jade Empress' Tomb"
+title: "D&D Inside the Jade Empress' Tomb"
 date: 2024-03-20
 categories: [TTRPG, Adventures]
 tags: dnd 5e ttrpg adventure
