@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-arrow-circle-right
-order: 6
+order: 3
 ---
 
 ## textual errors
