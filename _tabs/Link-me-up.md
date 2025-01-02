@@ -9,7 +9,7 @@ order: 1
 
 To help you navigate the interconnect web of digital data, here are all the relevant links to help you out. 
     
-You can buy **Three of Cups** as an ebook on [Amazon](https://www.amazon.com/dp/B0DR29YZN1) or [Kobo](https://www.kobo.com/nl/nl/ebook/three-of-cups); it will also be available for Kobo Plus readers. 
+You can buy **Three of Cups** as an ebook on [Amazon](https://www.amazon.com/dp/B0DR29YZN1) or [Kobo](https://www.kobo.com/us/en/ebook/three-of-cups); it will also be available for Kobo Plus readers. 
 Want to leave a review? Head on over to [Goodreads](https://www.goodreads.com/book/show/222813642-three-of-cups) or [Hebban](https://www.hebban.nl/boek/three-of-cups-zanna-bear).  
   
 To read up to chapter 21 of **Three of Cups** online visit [Arkhaven](https://www.Arkhaven.com/comics/fantasy/three-of-cups/). Posting of new chapters will resume in April.
