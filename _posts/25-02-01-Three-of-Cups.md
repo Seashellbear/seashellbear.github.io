@@ -2,7 +2,8 @@
 
 layout: post
 title: "Three of Cups"
-date: 2025-02-01categories: [Books]
+date: 2025-02-01
+categories: [Books]
 tags: book ebook arkhaven 3oC fantasy
 published: true
 
