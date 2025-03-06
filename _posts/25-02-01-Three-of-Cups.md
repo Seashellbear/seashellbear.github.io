@@ -2,8 +2,7 @@
 
 layout: post
 title: "Three of Cups"
-date: 2025-02-01
-categories: [Books, Arkhaven]
+date: 2025-02-01categories: [Books]
 tags: book ebook arkhaven 3oC fantasy
 published: true
 
@@ -26,3 +25,10 @@ Until the powerful people who built the cage come to drag her back.
   
 **Three of Cups** is a low stakes, high fantasy novel centered around the sisterhood of found family. 
 
+
+    
+## interested? 
+**Three of Cups** is available for purchase on [Amazon](https://www.amazon.com/dp/B0DR29YZN1) (paperback and ebook) or [Kobo](https://www.kobo.com/us/en/ebook/three-of-cups) (ebook only); it is also available for Kobo Plus readers.  
+If you're interested in the paperback edition, and you really want to support me, contact me for a private sale. You will receive a 10% discount.  
+  
+Head on over to [Goodreads](https://www.goodreads.com/book/show/222813642-three-of-cups) or [Hebban](https://www.hebban.nl/boek/three-of-cups-zanna-bear) to check out what previous readers shared about Three of Cups.
