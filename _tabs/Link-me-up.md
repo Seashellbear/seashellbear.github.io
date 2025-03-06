@@ -16,6 +16,6 @@ Want to leave a review? Head on over to [Goodreads](https://www.goodreads.com/bo
   
 Visit [Arkhaven](https://www.Arkhaven.com/comics/fantasy/three-of-cups/) to read up to chapter 21 of **Three of Cups** online, for free. Posting of new chapters will resume in April. 
   
-You can follow me on [Instagram](https://www.instagram.com/seashell.bear.creative/) and stay up to date on new releases (Arkhaven), creative projects, and more.    
+Or check out my published **D&D adventures** on [DMsGuild](https://www.dmsguild.com/browse.php?author=Suus)  
   
-Or check out my published D&D adventures on [DMsGuild](https://www.dmsguild.com/browse.php?author=Suus)
+Follow me on [Instagram](https://www.instagram.com/seashell.bear.creative/) and stay up to date on new releases, creative projects, and more.  
